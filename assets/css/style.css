@@ -1,4 +1,6 @@
-/*XL SIZE*/
+/*MY LAPTOP*/
+
+
 body{
     background-color   : royalblue
 }
@@ -49,120 +51,7 @@ body{
 }
 
 #cat1{
-    margin-left        : 50px;
-    margin-bottom      : 18px;
-    padding            : 40px 91.7px;  
-}
-
-#cat2{
-    margin-left        : 0px;
-    margin-bottom      : 18px;
-    padding            : 40px 91.7px;  
-}
-
-#cat3{
-    margin-left        : 0px;
-    margin-bottom      : 18px;
-    padding            : 40px 91.7px;  
-}
-
-#cat4{
-    margin-left        : 0px;
-    margin-bottom      : 18px;
-    padding            : 40px 91.7px;  
-}
-
-#cat5{
-    margin-left        : 0px;
-    margin-bottom      : 18px;
-    padding            : 40px 91.7px;  
-}
-
-#cat6{
-    margin-left        : 0px;
-    margin-bottom      : 18px;
-    padding            : 40px 91.7px;  
-}
-
-#firstRow{
-    margin-left        : 50px
-}
-
-.boxStyle{
-    font-family        : 'Source Sans Pro', sans-serif;
-    background-color   : blue;
-    color              : goldenrod;
-    font-size          : 25px;
-    border-style       : solid;
-    border-radius      : 7px;
-    border-color       : black;
-    padding            : 40px 120px;
-}
-
-.boxFourStyle{
-    font-family        : 'Source Sans Pro', sans-serif;
-    background-color   : blue;
-    color              : goldenrod;
-    font-size          : 25px;
-    border-style       : solid;
-    border-radius      : 7px;
-    border-color       : black;
-    padding            : 40px 113.8px;
-}
-
-@media (min-width:992px){
-/*LG SIZE*/
-body{
-    background-color   : royalblue
-}
-
-#mainHeader{
-    font-family        : 'Source Sans Pro', sans-serif;
-    color              : #ffffff;
-    background         : blue;
-    border             : 3px;
-    text-align         : center;
-    margin-bottom      : 25px;
-}
-
-#team1{
-    font-family        : 'Source Sans Pro', sans-serif;
-    color              : #ffffff;
-    background         : red;
-    border             : 3px;
-    text-align         : center;
-    margin-bottom      : 25px;
-}
-
-#team2{
-    font-family        : 'Source Sans Pro', sans-serif;
-    color              : #ffffff;
-    background         : orange;
-    border             : 3px;
-    text-align         : center;
-    margin-bottom      : 25px;
-}
-
-#team3{
-    font-family        : 'Source Sans Pro', sans-serif;
-    color              : #ffffff;
-    background         : purple;
-    border             : 3px;
-    text-align         : center;
-    margin-bottom      : 25px;
-}
-
-#team4{
-    font-family        : 'Source Sans Pro', sans-serif;
-    color              : #ffffff;
-    background         : green;
-    border             : 3px;
-    text-align         : center;
-    margin-bottom      : 25px;
-}
-
-#cat1{
-    margin-left        : 50px;
+    margin-left        : 20px;
     margin-bottom      : 18px;
     padding            : 30px 71.7px;  
 }
@@ -198,7 +87,7 @@ body{
 }
 
 #firstRow{
-    margin-left        : 50px
+    margin-left        : 20px
 }
 
 .boxStyle{
@@ -223,9 +112,232 @@ body{
     padding            : 30px 93.8px;
 }
 
-    
+@media (max-width:1440px){
+/*XL SIZE*/
+body{
+    background-color   : black;
 }
 
+#mainHeader{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : blue;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
 
+#team1{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : red;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
 
+#team2{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : orange;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#team3{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : purple;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#team4{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : green;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#cat1{
+    margin-left        : 50px;
+    margin-bottom      : 18px;
+    padding            : 28px 61.7px;  
+}
+
+#cat2{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 61.7px;  
+}
+
+#cat3{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 61.7px;  
+}
+
+#cat4{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 61.7px;  
+}
+
+#cat5{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 61.7px;  
+}
+
+#cat6{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 61.7px;  
+}
+
+#firstRow{
+    margin-left        : 50px
+}
+
+.boxStyle{
+    font-family        : 'Source Sans Pro', sans-serif;
+    background-color   : blue;
+    color              : goldenrod;
+    font-size          : 25px;
+    border-style       : solid;
+    border-radius      : 7px;
+    border-color       : black;
+    padding            : 28px 90px;
+}
+
+.boxFourStyle{
+    font-family        : 'Source Sans Pro', sans-serif;
+    background-color   : blue;
+    color              : goldenrod;
+    font-size          : 25px;
+    border-style       : solid;
+    border-radius      : 7px;
+    border-color       : black;
+    padding            : 28px 83.8px;
+}
+
+}
+@media (max-width:1400px){
+/*TABLET*/
+body{
+    background-color   : grey;
+}
+
+#mainHeader{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : blue;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#team1{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : red;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#team2{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : orange;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#team3{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : purple;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#team4{
+    font-family        : 'Source Sans Pro', sans-serif;
+    color              : #ffffff;
+    background         : green;
+    border             : 3px;
+    text-align         : center;
+    margin-bottom      : 25px;
+}
+
+#cat1{
+    margin-left        : 50px;
+    margin-bottom      : 18px;
+    padding            : 28px 26.7px;  
+}
+
+#cat2{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 26.7px;  
+}
+
+#cat3{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 26.7px;  
+}
+
+#cat4{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 26.7px;  
+}
+
+#cat5{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 26.7px;  
+}
+
+#cat6{
+    margin-left        : 0px;
+    margin-bottom      : 18px;
+    padding            : 28px 26.7px;  
+}
+
+#firstRow{
+    margin-left        : 50px
+}
+
+.boxStyle{
+    font-family        : 'Source Sans Pro', sans-serif;
+    background-color   : blue;
+    color              : goldenrod;
+    font-size          : 25px;
+    border-style       : solid;
+    border-radius      : 7px;
+    border-color       : black;
+    padding            : 28px 55px;
+}
+
+.boxFourStyle{
+    font-family        : 'Source Sans Pro', sans-serif;
+    background-color   : blue;
+    color              : goldenrod;
+    font-size          : 25px;
+    border-style       : solid;
+    border-radius      : 7px;
+    border-color       : black;
+    padding            : 28px 48.8px;
+}
+
+}
 

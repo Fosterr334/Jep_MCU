@@ -21,6 +21,7 @@ body{
     border             : 3px;
     text-align         : center;
     margin-bottom      : 25px;
+    z-index            : 1;
 }
 
 #team2{
@@ -115,7 +116,7 @@ body{
 @media (max-width:1440px){
 /*XL SIZE*/
 body{
-    background-color   : black;
+    background-color   : royalblue;
 }
 
 #mainHeader{
@@ -229,7 +230,7 @@ body{
 @media (max-width:1400px){
 /*TABLET*/
 body{
-    background-color   : grey;
+    background-color   : royalblue;
 }
 
 #mainHeader{
